@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Favour Ori</title>
+    <title>Tobby Junior</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -29,7 +29,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
-        <span class="d-block d-lg-none">Favour Ori</span>
+        <span class="d-block d-lg-none"> Umoh Tobby Jr.</span>
         <span class="d-none d-lg-block">
           <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt="">
         </span>
@@ -54,9 +54,7 @@
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#awards">Awards</a>
-          </li>
+          
         </ul>
       </div>
     </nav>
@@ -65,13 +63,13 @@
 
       <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
         <div class="my-auto">
-          <h1 class="mb-0">Favour
-            <span class="text-primary">Ori.</span>
+          <h1 class="mb-0">Umoh
+            <span class="text-primary">Tobby Jr.</span>
           </h1>
-          <div class="subheading mb-5">3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-0000 ·
-            <a href="mailto:name@email.com">favourdemo@gmail.com</a>
+          <div class="subheading mb-5"> 24, Victory Crescent Estate, Meiran, Lagos.
+            <a href="mailto:name@email.com"> umohjunior96@gmail.com</a>
           </div>
-          <p class="mb-5">Passionate about designing and developing Innovative products that are not just Intuitive but also serve as creative solutions to problems people face in the society</p>
+          <p class="mb-5"> I'm passionate about building,developing, and designing simple but well sophisticated website/web-apps alike that will be useful to everyone and provide solution to pressing needs.</p>
           <ul class="list-inline list-social-icons mb-0">
             <li class="list-inline-item">
               <a href="#">
@@ -115,49 +113,50 @@
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">Senior Web Developer</h3>
-              <div class="subheading mb-3">Intelitec Solutions</div>
-              <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+              <h3 class="mb-0">Intern - Web Dev. </h3>
+              <div class="subheading mb-3">Prudent Synergy Solutions ltd. </div>
+              <p>Built samples of Web pages for some websites using just html, css under supervision from a senior Web developer </p>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">March 2013 - Present</span>
+              <span class="text-primary">January 2017 - August 2017</span>
             </div>
           </div>
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">Web Developer</h3>
-              <div class="subheading mb-3">Intelitec Solutions</div>
-              <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
+              <h3 class="mb-0">Entry - level Software developer. </h3>
+              <div class="subheading mb-3">Prudent Synergy  Solutions ltd.</div>
+              <p>Built desktop applications such as Payroll app, Attendance system, Utility system i.e (gpa/cgpa calculator with user authentication), by using programming languages such as vb.net, c#.net, and an IDE which is VS (Visual Studio).</p>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">December 2011 - March 2013</span>
+              <span class="text-primary">January 2017 - August 2017</span>
             </div>
           </div>
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">Junior Web Designer</h3>
-              <div class="subheading mb-3">Shout! Media Productions</div>
-              <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>
+              <h3 class="mb-0"> Graphics  Designer</h3>
+              <div class="subheading mb-3"> Eze's designs and prints ltd.</div>
+              <p>Using a Tool which is CoreldrawX3 i was designing billboards,banners, stickers, and sav jobs. </p>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">July 2010 - December 2011</span>
+              <span class="text-primary">August 2014 - January 2014</span>
             </div>
           </div>
-
-          <div class="resume-item d-flex flex-column flex-md-row">
+          
+          
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">Web Design Intern</h3>
-              <div class="subheading mb-3">Shout! Media Productions</div>
-              <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
+              <h3 class="mb-0"> A.i Virtual assistant chatbot Builder.</h3>
+              <div class="subheading mb-3"> </div>
+              <p>Will help build a user-friendly virtual assistance chatbot for your websites. </p>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">September 2008 - June 2010</span>
+              <span class="text-primary">March 2018 - Present.</span>
             </div>
           </div>
+           
 
-        </div>
 
       </section>
 
@@ -167,24 +166,24 @@
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">University of Colorado Boulder</h3>
-              <div class="subheading mb-3">Bachelor of Science</div>
-              <div>Computer Science - Web Development Track</div>
-              <p>GPA: 3.23</p>
+              <h3 class="mb-0">Yaba College Of Technology</h3>
+              <div class="subheading mb-3">National Diploma</div>
+              <div>Computer Science </div>
+              
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">August 2006 - May 2010</span>
+              <span class="text-primary">January 2016 - Present</span>
             </div>
           </div>
 
           <div class="resume-item d-flex flex-column flex-md-row">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">James Buchanan High School</h3>
-              <div class="subheading mb-3">Technology Magnet Program</div>
-              <p>GPA: 3.56</p>
+              <h3 class="mb-0">Baptist Senior High School</h3>
+              <div class="subheading mb-3">SSCE </div>
+              
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">August 2002 - May 2006</span>
+              <span class="text-primary">September 2010 - May 2013</span>
             </div>
           </div>
 
@@ -198,98 +197,55 @@
           <div class="subheading mb-3">Programming Languages &amp; Tools</div>
           <ul class="list-inline list-icons">
             <li class="list-inline-item">
-              <i class="devicons devicons-html5"></i>
+              <i class="devicons devicons-html"></i>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-css3"></i>
+              <i class="devicons devicons-css"></i>
+            </li>
+            
+            <li class="list-inline-item">
+              <i class="devicons devicons-c#"></i>
             </li>
             <li class="list-inline-item">
-              <i class="devicons devicons-javascript"></i>
+              <i class="devicons devicons-visual studio"></i>
             </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-jquery"></i>
+             <li class="list-inline-item">
+              <i class="devicons devicons-sqlserver"></i>
             </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-sass"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-less"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-bootstrap"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-wordpress"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-grunt"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-gulp"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-npm"></i>
-            </li>
+            
           </ul>
 
-          <div class="subheading mb-3">Workflow</div>
-          <ul class="fa-ul mb-0">
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              Mobile-First, Responsive Design</li>
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              Cross Browser Testing &amp; Debugging</li>
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              Cross Functional Teams</li>
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              Agile Development &amp; Scrum</li>
-          </ul>
-        </div>
+          
       </section>
 
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
         <div class="my-auto">
           <h2 class="mb-5">Interests</h2>
-          <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skiier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
-          <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technolgy advancements in the front-end web development world.</p>
+          <p>Well, stepping out of my web development or software Dev zone, I enjoy doing other things too, such as </p>
+          <ul>
+          <li> Playing football. </li>
+           <li> Hanging out with friends.  </li>
+            <li> Playing games (FIFA, Call of duty, God of war). </li>
+             <li> Seeing sci-fi movies (My fav. Man of steel) and also The three idiots </li>
+              <li> i also enjoy watching the movies bout my role model (Steve Jobs ), the movies (Jobs, The man in the machine ). </li>
+               <li> I'm a cartoon freak too (Naruto). </li>
+                <li> when I'm alone, I love to spend hours on my favourite website, i.e <a href="https://quora.com"> Quora</a> as I tend to fine answers to various topics, such as programming, designing, Web Dev. , software , movies, cartoons, comics, etc. </li>
+          
+          
+          
+          </ul>
+          
         </div>
       </section>
 
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="awards">
         <div class="my-auto">
           <h2 class="mb-5">Awards &amp; Certifications</h2>
-          <ul class="fa-ul mb-0">
-            <li>
+          <li>
               <i class="fa-li fa fa-trophy text-warning"></i>
-              Google Analytics Certified Developer</li>
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              Mobile Web Specialist - Google Certification</li>
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              1<sup>st</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition 2009</li>
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              1<sup>st</sup>
-              Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)</li>
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              2<sup>nd</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition 2008</li>
-            <li>
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              1<sup>st</sup>
-              Place - James Buchanan High School - Hackathon 2006</li>
-            <li>
-              <i class="fa-li fa fa-trophy text-warning"></i>
-              3<sup>rd</sup>
-              Place - James Buchanan High School - Hackathon 2005</li>
-          </ul>
+              IBM Watson Assistant - Chatbot Developer.
+              </li>
+            
         </div>
       </section>
 
