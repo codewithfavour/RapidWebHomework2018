@@ -8,7 +8,9 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Tobby Junior</title>
+    <title>Tobby Junior | Resume</title>
+    <link rel="shortcut icon"
+ href="img/FB_IMG_15228095320717875.jpg">
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
