@@ -9,8 +9,7 @@
     <meta name="author" content="">
 
     <title>Tobby Junior | Resume</title>
-    <link rel="shortcut icon"
- href="img/FB_IMG_15228095320717875.jpg">
+    <link rel="shortcut icon" href="img/FB_IMG_15228095320717875.jpg">
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -27,13 +26,13 @@
 
   </head>
 
-  <body id="page-top">
+ <body id="page-top">
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
-        <span class="d-block d-lg-none"> Umoh Tobby Jr.</span>
+        <span class="d-block d-lg-none">Umoh Tobby Jr.</span>
         <span class="d-none d-lg-block">
-          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/FB_IMG_15228095320717875.jpg" alt="">
+          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="FB_IMG_15228095320717875.jpg" alt="">
         </span>
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -56,7 +55,9 @@
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
           </li>
-          
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#awards">Awards</a>
+          </li>
         </ul>
       </div>
     </nav>
@@ -68,7 +69,7 @@
           <h1 class="mb-0">Umoh
             <span class="text-primary">Tobby Jr.</span>
           </h1>
-          <div class="subheading mb-5"> 24, Victory Crescent Estate, Meiran, Lagos.
+          <div class="subheading mb-5"> 24, Victory Crescent Estate, Meiran, Lagos. <span> Tel:+2347056507458. </span>
             <a href="mailto:name@email.com"> umohjunior96@gmail.com</a>
           </div>
           <p class="mb-5"> I'm passionate about building,developing, and designing simple but well sophisticated website/web-apps alike that will be useful to everyone and provide solution to pressing needs.</p>
