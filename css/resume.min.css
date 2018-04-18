@@ -114,11 +114,7 @@ section.resume-section {
   color: #2875ef !important; }
 
 a {
-  color: #BD5D38; }
+  color:  #3897BD; }
   a:hover, a:focus, a:active {
     color: #824027; }
 
-/* navbar */
-.navbar-default {
-    background-color:#3897BD;
-  }
